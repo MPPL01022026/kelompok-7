@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Banner Digitalisasi Sistem Penjualan UMKM Sate Padang Wak Abeng" width="100%">
+<img src="/banner.svg" alt="Banner Digitalisasi Sistem Penjualan UMKM Sate Padang Wak Abeng" width="100%">
 
 # 🍢 Digitalisasi Sistem Penjualan dan Pengelolaan UMKM Sate Padang Wak Abeng
 
