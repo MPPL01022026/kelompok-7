@@ -211,7 +211,7 @@ mindmap
 
 ## 👨‍👩‍👧 Tim Pengembang (Kelompok 7)
 
-<img src="assets/tim.svg" alt="Tim Pengembang Kelompok 7" width="100%">
+<img src="/tim.svg" alt="Tim Pengembang Kelompok 7" width="100%">
 
 | Nama | NIM | Peran |
 |---|---|---|
