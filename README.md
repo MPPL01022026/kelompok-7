@@ -240,9 +240,9 @@ mindmap
 | Identifikasi Masalah | ✅ | | |
 | Analisis Kebutuhan | | | ✅ |
 | Penentuan Ruang Lingkup dan Fitur | ✅ | | ✅ |
-| Perancangan UI/UX | ✅ | | |
+| Perancangan UI/UX |  |✅| |
 | Perancangan Database | | ✅ | |
-| Pengembangan Website | ✅ | ✅ | |
+| Pengembangan Website | ✅ |  | |
 | Pengujian Website | | ✅ | ✅ |
 | Perbaikan dan Evaluasi | | ✅ | |
 | Implementasi dan Dokumentasi | | | ✅ |
